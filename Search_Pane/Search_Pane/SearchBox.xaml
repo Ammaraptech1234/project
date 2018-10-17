@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="Search_Pane.SearchBox"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Search_Pane"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="YellowGreen">
+        
+        <SearchBox PlaceholderText="Search Your Items" FontSize="26" 
+                   Name="mysearchBox" Height="85" Margin="750,39,62,0" VerticalAlignment="Top"
+                   QuerySubmitted="mysearchBox_QuerySubmitted"
+                   SuggestionsRequested="mysearchBox_SuggestionsRequested"/>
+        
+    </Grid>
+</Page>

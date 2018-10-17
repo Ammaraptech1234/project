@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Search_Pane.Apple"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Search_Pane"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Aquamarine">
+        <Image Source="Assets/apple2.png" HorizontalAlignment="Left" Height="480" Margin="597,169,0,0" VerticalAlignment="Top" Width="641"/>
+        <Image Source="Assets/apple1.jpg" HorizontalAlignment="Left" Height="544" Margin="100,105,0,0" VerticalAlignment="Top" Width="431"/>
+        <TextBox HorizontalAlignment="Left" Margin="319,664,0,0" TextWrapping="Wrap" FontSize="36" Text="If You have An Apple It means You are not a Obama" VerticalAlignment="Top" Height="104" Width="853"/>
+
+
+
+    </Grid>
+</Page>
+

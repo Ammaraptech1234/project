@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB18-175</Machine>
+    <WindowsUser>asp</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c4e71a8d-7116-47d1-805d-a6a1d53b46ce</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\asp\Desktop\Search_Pane\Search_Pane\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C9D06802211575D93D8132E10D63358E99DF8F1B8DA6C0EC002D191F2C4B3733</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c4e71a8d-7116-47d1-805d-a6a1d53b46ce_1.0.0.0_neutral__79ejfqzfbtfcm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c4e71a8d-7116-47d1-805d-a6a1d53b46ce_79ejfqzfbtfcm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c4e71a8d-7116-47d1-805d-a6a1d53b46ce</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=asp</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-24T05:42:42.702</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\bin\Debug\Search_Pane.exe">
+      <PackagePath>Search_Pane.exe</PackagePath>
+      <Modified>2016-05-24T05:42:42.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\Assets\apple1.jpg">
+      <PackagePath>Assets\apple1.jpg</PackagePath>
+      <Modified>2016-05-24T04:54:04.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\Assets\apple2.png">
+      <PackagePath>Assets\apple2.png</PackagePath>
+      <Modified>2016-05-24T04:54:42.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-24T04:51:52.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\bin\Debug\Apple.xbf">
+      <PackagePath>Apple.xbf</PackagePath>
+      <Modified>2016-05-24T05:30:20.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-24T05:30:20.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\bin\Debug\SearchBox.xbf">
+      <PackagePath>SearchBox.xbf</PackagePath>
+      <Modified>2016-05-24T05:42:42.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\bin\Debug\Search_Pane.xr.xml">
+      <PackagePath>Search_Pane.xr.xml</PackagePath>
+      <Modified>2016-05-24T05:14:59.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\asp\Desktop\Search_Pane\Search_Pane\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-24T05:42:42.483</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
